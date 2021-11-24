@@ -1,0 +1,7 @@
+C:\Users\Utilisateur\Documents\Cours\Etudes supérieures\1A ENSC\S5\Sciences Fondamentales\Intro à la programmation\Test\ProgrammePrincipal\bin\Debug\ProgrammePrincipal.exe.config
+C:\Users\Utilisateur\Documents\Cours\Etudes supérieures\1A ENSC\S5\Sciences Fondamentales\Intro à la programmation\Test\ProgrammePrincipal\bin\Debug\ProgrammePrincipal.exe
+C:\Users\Utilisateur\Documents\Cours\Etudes supérieures\1A ENSC\S5\Sciences Fondamentales\Intro à la programmation\Test\ProgrammePrincipal\bin\Debug\ProgrammePrincipal.pdb
+C:\Users\Utilisateur\Documents\Cours\Etudes supérieures\1A ENSC\S5\Sciences Fondamentales\Intro à la programmation\Test\ProgrammePrincipal\obj\Debug\ProgrammePrincipal.csproj.AssemblyReference.cache
+C:\Users\Utilisateur\Documents\Cours\Etudes supérieures\1A ENSC\S5\Sciences Fondamentales\Intro à la programmation\Test\ProgrammePrincipal\obj\Debug\ProgrammePrincipal.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Documents\Cours\Etudes supérieures\1A ENSC\S5\Sciences Fondamentales\Intro à la programmation\Test\ProgrammePrincipal\obj\Debug\ProgrammePrincipal.exe
+C:\Users\Utilisateur\Documents\Cours\Etudes supérieures\1A ENSC\S5\Sciences Fondamentales\Intro à la programmation\Test\ProgrammePrincipal\obj\Debug\ProgrammePrincipal.pdb
